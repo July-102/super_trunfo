@@ -2,9 +2,13 @@
 
 
 
+
+
+
 #include <stdio.h>
 
 int main() {
+
     // Dados da Carta 1
     char estado1[3], codigo1[4], cidade1[50];
     int populacao1, pontosTuristicos1;
